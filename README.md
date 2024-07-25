@@ -6,4 +6,8 @@ Made an edit and changed the file content.
 ## Subheader 
 Made this change locally on mac. 
 
-## Another Change
+## Another Changeure
+
+## Local Development
+
+1. Open index.html in your browser.
